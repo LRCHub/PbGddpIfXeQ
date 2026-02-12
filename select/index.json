@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Augmentation 2025",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-12T16:31:03.604451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Human Augmentation",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/01_Human_Augmentation_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Human Augmentation",
+      "artist": "Fear Factory",
+      "has_synced": true,
+      "path": "select/02_Human_Augmentation_Fear_Factory.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Augmentation",
+      "artist": "KMNZ feat. Moe Shop",
+      "has_synced": true,
+      "path": "select/03_Augmentation_KMNZ_feat._Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Augmentation Feat. Moe Shop - Single",
+      "artist": "KMNZ",
+      "has_synced": true,
+      "path": "select/04_Augmentation_Feat._Moe_Shop_-_Single_KMNZ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Augmentation",
+      "artist": "KMNZ, Moe Shop",
+      "has_synced": true,
+      "path": "select/05_Augmentation_KMNZ,_Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Human Augmentation",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/06_Human_Augmentation_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Augmentation (feat. Moe Shop)",
+      "artist": "KMNZ",
+      "has_synced": true,
+      "path": "select/07_Augmentation_(feat._Moe_Shop)_KMNZ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Augmentation (L'Orange Remix)",
+      "artist": "Rapper Big Pooh & Apollo Brown",
+      "has_synced": false,
+      "path": "select/08_Augmentation_(L'Orange_Remix)_Rapper_Big_Pooh_&_Apollo_Brown.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Augmentation (L'Orange Remix)",
+      "artist": "Rapper Big Pooh",
+      "has_synced": false,
+      "path": "select/09_Augmentation_(L'Orange_Remix)_Rapper_Big_Pooh.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Augmentation",
+      "artist": "Rapper Big Pooh & Apollo Brown",
+      "has_synced": true,
+      "path": "select/10_Augmentation_Rapper_Big_Pooh_&_Apollo_Brown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Augmentation",
+      "artist": "KMNZ",
+      "has_synced": true,
+      "path": "select/11_Augmentation_KMNZ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Augmentation",
+      "artist": "Rapper Big Pooh",
+      "has_synced": true,
+      "path": "select/12_Augmentation_Rapper_Big_Pooh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Augmentation",
+      "artist": "Inneko",
+      "has_synced": false,
+      "path": "select/13_Augmentation_Inneko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Augmentation 2025",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_Augmentation_2025_KMNZ.txt"
+    }
+  ]
+}
